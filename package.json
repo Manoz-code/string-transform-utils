@@ -1,0 +1,27 @@
+{
+  "name": "string-transform-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for advanced string transformations",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "string",
+    "uppercase",
+    "lowercase",
+    "transform",
+    "utilities",
+    "string-manipulation"
+  ],
+  "author": "MANOZ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/string-transform-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/string-transform-utils/issues"
+  },
+  "homepage": "https://github.com/yourusername/string-transform-utils#readme"
+}
