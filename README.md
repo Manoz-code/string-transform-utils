@@ -112,4 +112,4 @@ Your Name
 
 ## Issues
 
-Report issues at: https://github.com/yourusername/string-transform-utils/issues
+Report issues at: https://github.com/Manoz-code/string-transform-utils/issues
