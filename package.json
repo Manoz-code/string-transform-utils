@@ -1,5 +1,5 @@
 {
-  "name": "string-transform-utils",
+  "name": "@manoz/string-transform-utils",
   "version": "1.0.0",
   "description": "Utility functions for advanced string transformations",
   "main": "index.js",
